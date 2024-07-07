@@ -1,15 +1,14 @@
 // NOTICE: Copy this file to your root folder.
 
 /* Personal Information */
-#let firstName = "John"
-
-#let lastName = "Doe"
+#let firstName = "Kai"
+#let lastName = "Zhang"
 
 #let personalInfo = (
-  github: "mintyfrankie",
-  phone: "+33 6 12 34 56 78",
-  email: "john.doe@me.org",
-  linkedin: "johndoe",
+  github: "Leadlegend",
+  phone: "+1 661 381 6888",
+  email: "kzhan118@jhu.edu",
+  //linkedin: "johndoe",
   //custom-1: (icon: "", text: "example", link: "https://example.com"),
   //gitlab: "mintyfrankie",
   //homepage: "jd.me.org",
@@ -44,7 +43,7 @@
 
 #let nonLatinOverwriteInfo = (
   "customFont": "Heiti SC",
-  "firstName": "王道尔",
+  "firstName": "张凯忻",
   "lastName": "",
   // submit an issue if you think other variables should be in this array
 )
@@ -52,7 +51,7 @@
 /* Layout Setting */
 #let awesomeColor = "skyblue" // Optional: skyblue, red, nephritis, concrete, darknight
 
-#let profilePhoto = "../src/avatar.png" // Leave blank if profil photo is not needed
+#let profilePhoto = "" // Leave blank if profil photo is not needed
 
 #let varLanguage = "" // INFO: value must matches folder suffix; i.e "zh" -> "./modules_zh"
 
@@ -60,6 +59,6 @@
 
 #let varDisplayLogo = true // Decide if you want to display organisation logo or not
 
-#let ifAIInjection = false // Decide if you want to inject AI prompt or not
+#let ifAIInjection = true // Decide if you want to inject AI prompt or not
 
-#let keywordsInjectionList = ("Data Analyst", "GCP", "Python", "SQL", "Tableau",) // Leave blank if you don't want to inject keywords
+#let keywordsInjectionList = ("Research Scientist", "Natural Language Processing", "LMMs",) // Leave blank if you don't want to inject keywords
