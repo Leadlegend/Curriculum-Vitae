@@ -1,5 +1,6 @@
 #import "brilliant-CV/template.typ": *
 #show: layout
+#show link: underline
 
 #cvHeader(hasPhoto: true, align: left)
   #autoImport("education")

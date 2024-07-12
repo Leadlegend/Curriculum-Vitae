@@ -3,25 +3,26 @@
 #cvSection("Education")
 
 #cvEntry(
-    title: [Master of Data Science],
-    society: [University of California, Los Angeles],
-    date: [2018 - 2020],
-    location: [USA],
-    logo: "../src/logos/ucla.png",
+    title: [Bachelor of Science in Computer Science and Technology],
+    society: [Peking University],
+    date: [2018 - 2023],
+    location: [Beijing, China],
+    logo: "../src/logos/pku.svg.png",
     description: list(
-      [Thesis: Predicting Customer Churn in Telecommunications Industry using Machine Learning Algorithms and Network Analysis],
-      [Course: Big Data Systems and Technologies #hBar() Data Mining and Exploration #hBar() Natural Language Processing]
+      [Thesis: Exploring Few-Shot Learning of Large Language Models on Document-level Relation Extraction],
+      [Course: Machine Learning #hBar() Computer Architecture #hBar() Database #hBar() Operating System],
+      [Honor:  #list([The Third Prize of Peking University Scholarship], [summa	cum	laude])]
     )
 )
 
 #cvEntry(
-    title: [Bachelors of Science in Computer Science],
-    society: [University of California, Los Angeles],
-    date: [2018 - 2020],
-    location: [USA],
-    logo: "../src/logos/ucla.png",
+    title: [Master of Science and Engineering in Computer Science],
+    society: [Johns Hopkins University],
+    date: [2024 - Now],
+    location: [Baltimore, MD],
+    logo: "../src/logos/jhu.png",
     description: list(
-      [Thesis: Exploring the Use of Machine Learning Algorithms for Predicting Stock Prices: A Comparative Study of Regression and Time-Series Models],
-      [Course: Database Systems #hBar() Computer Networks #hBar() Software Engineering #hBar() Artificial Intelligence]
+      [Research Interest: Large Language Models #hBar() BioNLP #hBar() Knowledge Graph],
+      [Course: Convex Optimization #hBar() Natural Language Processing]
     )
 )

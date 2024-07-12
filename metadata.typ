@@ -6,7 +6,7 @@
 
 #let personalInfo = (
   github: "Leadlegend",
-  phone: "+1 661 381 6888",
+  phone: "+1 (661) 381 6888",
   email: "kzhan118@jhu.edu",
   //linkedin: "johndoe",
   //custom-1: (icon: "", text: "example", link: "https://example.com"),

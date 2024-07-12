@@ -1,18 +1,18 @@
 #import "../brilliant-CV/template.typ": *
 
 #cvSection("Skills")
-
+/*
 #cvSkill(
   type: [Languages],
   info: [English #hBar() French #hBar() Chinese]
 )
-
+*/
 #cvSkill(
-  type: [Tech Stack],
-  info: [Tableau #hBar() Python (Pandas/Numpy) #hBar() PostgreSQL]
+  type: [Languages],
+  info: [Python #hBar() C/C++ #hBar() Java #hBar() HTML/CSS #hBar() Bash #hBar() SQL]
 )
 
 #cvSkill(
-  type: [Personal Interests],
-  info: [Swimming #hBar() Cooking #hBar() Reading]
+  type: [Developer Tools],
+  info: [Docker #hBar() Git #hBar() Google Cloud Platform #hBar() $L^A T_E X$]
 )

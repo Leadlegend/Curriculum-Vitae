@@ -3,18 +3,21 @@
 #cvSection("Professional Experience")
 
 #cvEntry(
-    title: [Director of Data Science],
-    society: [XYZ Corporation],
-    logo: "../src/logos/xyz_corp.png",
-    date: [2020 - Present],
-    location: [San Francisco, CA],
+    title: [Research Intern],
+    society: [Tencent Ai Lab],
+    logo: "../src/logos/tencent.png",
+    date: [2021 - 2022],
+    location: [Beijing, China],
     description: list(
-      [Lead a team of data scientists and analysts to develop and implement data-driven strategies, develop predictive models and algorithms to support decision-making across the organization],
-      [Collaborate with executive leadership to identify business opportunities and drive growth, implement best practices for data governance, quality, and security],
+      [Participated in construction and maintenance of multi-lingual universal-domain knowledge graph #link("https://tac.nist.gov/publications/2017/participant.papers/TAC2017.TAI.proceedings.pdf")[Topbase]],
+      [Implemented and optimized an entity linking model based on knowledge graph Topbase via distributed parallel development on multi-GPU, using data parallel and gradient parallel to improve contrastive learning effectiveness and inference accuracy.],
+      [Designed a domain-specific semi-supervised named-entity recognition model based on contrastive learning paradigm Self-Tuning, introduced training signal annealing and self-distillation for better performance and achieved around 0.70 F1-score in sports and education domains with very low demand for annotated data.],
+      [Implemented a controlled text generation model based on Chinese GPT-2 and #link("https://github.com/dbiir/UER-py")[UER-py], which takes keyword as input and outputs descriptive advertising text; Optimized model’s keyword generation coverage and output diversity through in-domain pretraining and Mention Flags. The project received “Tencent Monthly Innovation Award” and has been applied to Tencent advertisement business of online reading platform.],
     ),
-    tags: ("Tags Example here", "Dataiku", "Snowflake", "SparkSQL")
+    tags: ("Knowledge Graph", "Information Extraction", "Pre-training")
 )
 
+/*
 #cvEntry(
     title: [Data Analyst],
     society: [ABC Company],
@@ -37,3 +40,4 @@
       [Assisted with data cleaning, processing, and analysis using Python and Excel, participated in team meetings and contributed to project planning and execution],
     )
 )
+*/
