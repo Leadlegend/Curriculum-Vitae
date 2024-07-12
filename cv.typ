@@ -1,4 +1,4 @@
-#import "brilliant-CV/template.typ": *
+#import "template.typ": *
 #show: layout
 #show link: underline
 

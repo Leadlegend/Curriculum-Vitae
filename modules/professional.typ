@@ -1,11 +1,11 @@
-#import "../brilliant-CV/template.typ": *
+#import "../template.typ": *
 
 #cvSection("Professional Experience")
 
 #cvEntry(
     title: [Research Intern],
     society: [Tencent Ai Lab],
-    logo: "../src/logos/tencent.png",
+    logo: "./src/logos/tencent.png",
     date: [2021 - 2022],
     location: [Beijing, China],
     description: list(
@@ -21,7 +21,7 @@
 #cvEntry(
     title: [Data Analyst],
     society: [ABC Company],
-    logo: "../src/logos/abc_company.png",
+    logo: "./src/logos/abc_company.png",
     date: [2017 - 2020],
     location: [New York, NY],
     description: list(
@@ -33,7 +33,7 @@
 #cvEntry(
     title: [Data Analysis Intern],
     society: [PQR Corporation],
-    logo: "../src/logos/pqr_corp.png",
+    logo: "./src/logos/pqr_corp.png",
     date: [Summer 2017],
     location: [Chicago, IL],
     description: list(

@@ -1,9 +1,9 @@
-#import "../brilliant-CV/template.typ": *
+#import "../template.typ": *
 
 #cvSection("Publications")
 
 #cvPublication(
-  bibPath: "../src/publications.bib",
+  bibPath: "./src/publications.bib",
   keyList: (
     "smith2020",
     "jones2021",
