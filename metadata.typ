@@ -5,10 +5,10 @@
 #let lastName = "Zhang"
 
 #let personalInfo = (
-  github: "Leadlegend",
-  phone: "+1 (661) 381 6888",
   email: "kzhan118@jhu.edu",
-  //linkedin: "johndoe",
+  phone: "+1 (443) 226 3132",
+  github: "Leadlegend",
+  linkedin: "kaizhang-jhu",
   //custom-1: (icon: "", text: "example", link: "https://example.com"),
   //gitlab: "mintyfrankie",
   //homepage: "jd.me.org",
@@ -20,8 +20,8 @@
 /* Language-specific */
 // Add your own languages while the keys must match the varLanguage variable
 #let headerQuoteInternational = (
-  "": [Experienced Data Analyst looking for a full time job starting from now],
-  "en": [Experienced Data Analyst looking for a full time job starting from now],
+  "": [727 West 40th St, Baltimore, MD 21211],
+  "en": [727 West 40th St, Baltimore, MD 21211],
   "fr": [Analyste de données expérimenté à la recherche d'un emploi à temps plein
     disponible dès maintenant],
   "zh": [具有丰富经验的数据分析师，随时可入职],

@@ -1,5 +1,6 @@
 # compiled files
 ./*.pdf
+*.pdf
 
 # MacOS specific files (Apple sucks)
 .DS_Store

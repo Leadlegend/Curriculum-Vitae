@@ -94,7 +94,7 @@
 
 #let headerInfoStyle(str) = { text(size: 10pt, fill: accentColor, str) }
 
-#let headerQuoteStyle(str) = { text(size: 10pt, weight: "medium", style: "italic", fill: accentColor, str) }
+#let headerQuoteStyle(str) = { text(size: 10pt, weight: "medium", fill: accentColor, str) }
 
 #let sectionTitleStyle(str, color: black) = { text(size: 16pt, weight: "bold", fill: color, str) }
 
@@ -243,8 +243,9 @@
     columns: 1fr,
     inset: 0pt,
     stroke: none,
-    row-gutter: 6mm,
+    row-gutter: 4mm,
     [#headerFirstNameStyle(firstName) #h(5pt) #headerLastNameStyle(lastName)],
+    [#headerQuoteStyle(languageSwitch(headerQuoteInternational))],
     [#headerInfoStyle(makeHeaderInfo())],
   )
 
