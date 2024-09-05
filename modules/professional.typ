@@ -16,7 +16,7 @@
       The project has been applied to Tencent's advertisement business and received “Tencent Monthly Innovation Award”. ], // which takes keyword as input and outputs descriptive advertising text; Optimized model’s keyword generation coverage and output diversity through in-domain pretraining and Mention Flags. The project received “Tencent Monthly Innovation Award” and has been applied to Tencent advertisement business of online reading platform.],
       [*Large Knowledge Graph*: Participated in construction and maintenance of multi-lingual universal-domain knowledge graph #link("https://tac.nist.gov/publications/2017/participant.papers/TAC2017.TAI.proceedings.pdf")[Topbase].],
     ),
-    tags: ("Knowledge Graph", "Information Extraction", "LLMs")
+    tags: ("PyTorch", "Java", "Knowledge Graph", "Information Extraction", "LLMs")
 )
 
 #cvEntry(
@@ -31,7 +31,7 @@
     [*interpretability of Biomedical Deep Learning*: Investigated the interpretability of neural networks, a critical problem in BioNLP, especially the way of encoding feature and information among neurons in models and how to comprehend it. \ 
     Designed a new interpretable model architecture for drug response prediction: Readable Neural Networks, which extracted contextual text embeddings of Gene Ontology terms from PubMed literatures through distant supervision.]
   ), 
-  tags: ("BioNLP", "Interpretable DL")
+  tags: ("PyTorch", "BioNLP", "Interpretable DL")
 )
 
 /*
