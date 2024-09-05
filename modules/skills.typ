@@ -9,7 +9,7 @@
 */
 #cvSkill(
   type: [Languages],
-  info: [Python #hBar() C/C++ #hBar() Java #hBar() HTML/css #hBar() Bash #hBar() SQL]
+  info: [Python #hBar() C/C++ #hBar() Java #hBar() HTML/css #hBar() Bash #hBar() SQL #hBar() Rust]
 )
 
 #cvSkill(
