@@ -11,4 +11,4 @@ compile-letter:
 	typst compile ./letter.typ ./output/Letter.pdf  --font-path ./src/fonts/ 
 
 export-cv:
-	typst compile ./cv.typ ../KaiZhang_CV.pdf --font-path ./src/fonts/
+	typst compile ./cv.typ ../../KaiZhang_CV.pdf --font-path ./src/fonts/
