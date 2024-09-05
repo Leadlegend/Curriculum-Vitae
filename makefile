@@ -10,5 +10,5 @@ compile-cv:
 compile-letter: 
 	typst compile ./letter.typ ./output/Letter.pdf  --font-path ./src/fonts/ 
 
-expert-cv:
+export-cv:
 	typst compile ./cv.typ ../KaiZhang_CV.pdf --font-path ./src/fonts/

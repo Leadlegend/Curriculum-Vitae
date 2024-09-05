@@ -8,21 +8,17 @@
     date: [2024 - Now],
     location: [Baltimore, MD],
     logo: "./src/logos/jhu.png",
-    description: list(
-      [Research Interest: Large Language Models #hBar() BioNLP #hBar() Knowledge Graph],
-      [Course: Convex Optimization #hBar() Natural Language Processing]
-    )
+    description: list()
 )
 
 #cvEntry(
-    title: [BS in Computer Science and Technology (Turing Class)],
+    title: [BS, Computer Science (Turing Class)],
     society: [Peking University],
-    date: [2018 - 2023],
+    date: [2019 - 2023],
     location: [Beijing, China],
     logo: "./src/logos/pku.svg.png",
     description: list(
       [Thesis: Exploring Few-Shot Learning of Large Language Models on Document-level Relation Extraction],
-      [Course: Machine Learning #hBar() Computer Architecture #hBar() Database #hBar() Operating System],
-      [Honor:  #list([The Third Prize of Peking University Scholarship], [summa	cum	laude])]
+      [GPA: 3.61/4.00 #hBar() Major Rank: 34 / 97 #hBar() Main Honor: The Third Prize of Peking University Scholarship],
     )
 )

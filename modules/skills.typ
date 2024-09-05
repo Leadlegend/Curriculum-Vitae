@@ -9,10 +9,10 @@
 */
 #cvSkill(
   type: [Languages],
-  info: [Python #hBar() C/C++ #hBar() Java #hBar() HTML/CSS #hBar() Bash #hBar() SQL]
+  info: [Python #hBar() C/C++ #hBar() Java #hBar() HTML/css #hBar() Bash #hBar() SQL]
 )
 
 #cvSkill(
   type: [Developer Tools],
-  info: [Docker #hBar() Git #hBar() Google Cloud Platform #hBar() $L^A T_E X$]
+  info: [Docker #hBar() Git #hBar() Cloud Platform #hBar() Hadoop]
 )
